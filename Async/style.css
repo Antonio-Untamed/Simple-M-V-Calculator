@@ -1,0 +1,14 @@
+*    {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: larger;
+    font-stretch: expanded;
+}
+
+body   {
+    background-color: beige;
+    margin-left: 30%;
+    margin-top: 10%;
+}
+span{
+    color: red;
+}
